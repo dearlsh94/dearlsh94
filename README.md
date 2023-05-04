@@ -8,7 +8,7 @@ I hope to contribute to creating a more user-friendly and delightful world<br/>
 through technology that has the power to touch people's hearts.
 
 I continuously explore technologies and trends,<br/>
-and strive to develop solutions that meet user's needs and excced their expectations.
+and strive to develop solutions that meet user's needs and exceed their expectations.
 
 I feel greate pleasure in collaborating with design, marketing and the other teams <br/>
 to work out solutions together.
