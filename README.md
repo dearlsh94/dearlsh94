@@ -19,7 +19,7 @@ that truly resonate with our users.
 
 I believe that this collaborative approach <br/>
 not only results in better outcomes but also fosters a positive team culture <br/>
-and strengthens our relationships with clients.
+and strengthens our relationships with users.
 
 Maybe we'll have time to talk sometime.
 
