@@ -1,27 +1,13 @@
 ### Greetings, 👋
 
-I'm Lee SeungHwan, also known as Ethan or 이썬.
+사람들의 마음을 움직이는 기술을 통해 더 편리하고 즐거운 세상이 되기를 소망하는,<br/>
+호기심을 바탕으로 움직이는 웹 개발자 이승환입니다. (A.K.A Ethan, 이썬)<br/>
 
-I'm a driven Web Developer with a passion for imagination and curiosity.
+기획, 디자인, 마케팅, 사용자 등 다양한 사람들과의 협업에서 즐거움을 느낍니다.<br/>
+이로 인해 긍정적인 팀 문화를 조성하고, 다양한 관점과 기술의 결합으로<br/>
+더 혁신적이고 효과적인 서비스를 만들 수 있다고 믿습니다.<br/>
 
-I hope to contribute to creating a more user-friendly and delightful world<br/>
-through technology that has the power to touch people's hearts.
-
-I continuously explore technologies and trends,<br/>
-and strive to develop solutions that meet user's needs and exceed their expectations.
-
-I feel greate pleasure in collaborating with design, marketing and the other teams <br/>
-to work out solutions together.
-
-By combining our diverse perspectives and skill sets,<br/>
-we can create innovative and effective solutions<br/>
-that truly resonate with our users.
-
-I believe that this collaborative approach <br/>
-not only results in better outcomes but also fosters a positive team culture <br/>
-and strengthens our relationships with users.
-
-Maybe we'll have time to talk sometime.
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdearlsh94%2Fhit-counter&count_bg=%235E8B7E&title_bg=%232F5D62&icon=&icon_color=%235E8B7E&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <!--
 **dearlsh94/dearlsh94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
