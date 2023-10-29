@@ -1,5 +1,4 @@
 ## Greetings, 👋
-
 <br/>
 
 마음을 움직이는 기술을 통해 더 편리하고 즐거운 세상이 되기를 소망하는,<br/>
@@ -27,15 +26,16 @@
 <br/>
 
 💁‍♂️ I'm ~<br/>
-2023.09 ~ | 재고 관리 서비스 '안녕재고' 팀원<br/>
-2023.04 ~ | 개인 블로그 'Weezip' 운영자<br/>
-2021.06 ~ | 영화 및 독서모임 '북이영화' 멤버<br/>
-2021.03 ~ | 클럽하우스 음악 모임 '검치단' 단원<br/>
+<img src='https://img.shields.io/badge/2023.10 ~ -재고 관리 서비스 안녕재고 팀원-04364A'/>  
+<img src='https://img.shields.io/badge/2023.04 ~ -개인 블로그 Weezip 운영자-2f5d62'/>  
+<img src='https://img.shields.io/badge/2021.06 ~ -영화 및 독서모임 북이영화 멤버-363062'/>  
+<img src='https://img.shields.io/badge/2021.03 ~ -클럽하우스 음악 모임 검치단 단원-0f0f0f'/>  
 
 <br/>
 
 🙆‍♂️ I was ~<br/>
-2020.07 ~ 2020.12 | 넥슨 게임 바람의 나라 커뮤니티 '도톨' V1 구축 및 개발<br/>
+<img src='https://img.shields.io/badge/2023.10-gatsby source notion feely v1.0.0 출시-190482'/>  
+<img src='https://img.shields.io/badge/2020.07 ~ 2020.12-넥슨 게임 바람의 나라 커뮤니티 도톨 V1 개발-B2533E'/>  
 
 <br/>
 
