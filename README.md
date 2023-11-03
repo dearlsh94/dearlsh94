@@ -34,6 +34,7 @@
 <br/>
 
 🙆‍♂️ I was ~<br/>
+<img src='https://img.shields.io/badge/2023.11-chrome blogmark for frontend v1.0.0 출시-C3ACD0'/>  
 <img src='https://img.shields.io/badge/2023.10-gatsby source notion feely v1.0.0 출시-190482'/>  
 <img src='https://img.shields.io/badge/2020.07 ~ 2020.12-넥슨 게임 바람의 나라 커뮤니티 도톨 V1 개발-B2533E'/>  
 
