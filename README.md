@@ -17,7 +17,7 @@
 
 낙타와 사자, 아이의 모습으로 살아가기를 소망합니다.<br/>
 
-<br/>
+---
 
 💁‍♂️ I'm ~<br/>
 <img src='https://img.shields.io/badge/2023.10 ~ -재고 관리 서비스 안녕재고 팀원-04364A'/>  
@@ -31,10 +31,10 @@
 <img src='https://img.shields.io/badge/2023.11-letter me V2-453321'/>  
 <img src='https://img.shields.io/badge/2023.11-chrome blogmark for frontend-C3ACD0'/>  
 <img src='https://img.shields.io/badge/2023.10-gatsby source notion feely-190482'/>  
-<img src='https://img.shields.io/badge/2022.08-letter me V1(name me)-453321'/>  
+<img src='https://img.shields.io/badge/2022.08-letter me V1(name me)-453321'/>  
 <img src='https://img.shields.io/badge/2020.07 ~ 2020.12-넥슨 게임 바람의 나라 커뮤니티 도톨 V1-B2533E'/>  
 
-<br/>
+---
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdearlsh94%2Fhit-counter&count_bg=%235E8B7E&title_bg=%232F5D62&icon=&icon_color=%235E8B7E&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
