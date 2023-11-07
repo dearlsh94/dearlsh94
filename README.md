@@ -28,11 +28,11 @@
 <br/>
 
 🙆‍♂️ I was ~<br/>
-<img src='https://img.shields.io/badge/2023.11-letter me v2-453321'/>  
+<img src='https://img.shields.io/badge/2023.11-letter me V2-453321'/>  
 <img src='https://img.shields.io/badge/2023.11-chrome blogmark for frontend-C3ACD0'/>  
 <img src='https://img.shields.io/badge/2023.10-gatsby source notion feely-190482'/>  
-<img src='https://img.shields.io/badge/2022.08-letter me v1(name me)-453321'/>  
-<img src='https://img.shields.io/badge/2020.07 ~ 2020.12-넥슨 게임 바람의 나라 커뮤니티 도톨 V1 개발-B2533E'/>  
+<img src='https://img.shields.io/badge/2022.08-letter me V1(name me)-453321'/>  
+<img src='https://img.shields.io/badge/2020.07 ~ 2020.12-넥슨 게임 바람의 나라 커뮤니티 도톨 V1-B2533E'/>  
 
 <br/>
 
