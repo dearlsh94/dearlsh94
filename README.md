@@ -23,7 +23,9 @@
 <img src='https://img.shields.io/badge/2023.10 ~ -재고 관리 서비스 안녕재고 팀원-04364A'/>  
 <img src='https://img.shields.io/badge/2023.04 ~ -개인 블로그 Weezip 운영자-2f5d62'/>  
 <img src='https://img.shields.io/badge/2021.06 ~ -영화 및 독서모임 북이영화 멤버-363062'/>  
+<!--
 <img src='https://img.shields.io/badge/2021.03 ~ -클럽하우스 음악 모임 검치단 단원-0f0f0f'/>  
+-->
 
 <br/>
 
@@ -37,18 +39,3 @@
 ---
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdearlsh94%2Fhit-counter&count_bg=%235E8B7E&title_bg=%232F5D62&icon=&icon_color=%235E8B7E&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
-<!--
-**dearlsh94/dearlsh94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
