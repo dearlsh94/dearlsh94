@@ -6,7 +6,7 @@
 
 ---
 
-💁‍♂️ I'm ~<br/>
+💁‍♂️ ~<br/>
 <img src='https://img.shields.io/badge/2023.11 ~ -✍️ 글또 9기-B0926A'/>  
 <img src='https://img.shields.io/badge/2023.11 ~ -🤿 프론트엔드 다이빙 클럽-164863'/>  
 <img src='https://img.shields.io/badge/2023.04 ~ -🎄 개인 블로그 Weezip-2f5d62'/>  
@@ -16,7 +16,7 @@
 
 <br/>
 
-🙆‍♂️ I was ~<br/>
+🙆‍♂️ ~<br/>
 <img src='https://img.shields.io/badge/2023.11-chrome blogmark for frontend-C3ACD0'/>  
 <img src='https://img.shields.io/badge/2023.10-gatsby source notion feely-190482'/>  
 <img src='https://img.shields.io/badge/2020.07 ~ 2020.12-넥슨 게임 바람의 나라 커뮤니티 도톨 V1-B2533E'/>  
