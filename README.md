@@ -1,8 +1,9 @@
 ## Greetings, 👋
 <br/>
 
-더 따뜻하고 편리한 세상이 되기를 바라며<br/>
-개발자로 일하고 있는 이승환(Ethan)입니다.<br/>
+더 따뜻하고 편리한 세상이 되기를 바라며  
+개발자로 일하고 있는 이승환(Ethan)입니다.  
+[Treefeely](https://treefeely.com)를 서비스하며 가꾸고 있어요.
 
 ---
 
@@ -13,13 +14,6 @@
 <img src='https://img.shields.io/badge/2021.06 ~ -📚 영화 및 독서모임 북이영화-363062'/>  
 <img src='https://img.shields.io/badge/2021.03 ~ -🚀 자기계발 모임 미라클버즈-EF4040'/>  
 <img src='https://img.shields.io/badge/2021.03 ~ -🏴 클럽하우스 음악 모임 검치단-0f0f0f'/>  
-
-<br/>
-
-🙆‍♂️ ~<br/>
-<img src='https://img.shields.io/badge/2023.11-chrome blogmark for frontend-C3ACD0'/>  
-<img src='https://img.shields.io/badge/2023.10-gatsby source notion feely-190482'/>  
-<img src='https://img.shields.io/badge/2020.07 ~ 2020.12-넥슨 게임 바람의 나라 커뮤니티 도톨 V1-B2533E'/>  
 
 ---
 
